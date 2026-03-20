@@ -12,7 +12,7 @@ I am a **Software Engineer** with a rigorous approach to frontend development an
 * **Focus:** Software Architecture, Web Technologies, and Distributed Systems.
 
 ### 💻 Technical Stack & Tools
-* **Frontend:** React, Next.js, Angular, TypeScript, RxJS, Redux/Zustand.
+* **Frontend:** React, Next.js, Angular, TypeScript, RxJS.
 * **Styles & UI:** CSS3/SASS, Tailwind CSS, Figma (Design-to-Code).
 * **Backend & Systems:** .NET Core, Java, Node.js, RESTful APIs, SQL.
 * **Methodologies:** SOLID, Clean Code, Design Patterns, Agile/Scrum.
