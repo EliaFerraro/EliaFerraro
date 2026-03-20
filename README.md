@@ -1,52 +1,38 @@
-# Hi, I'm Elia 👋
+# Hi there, I'm Elia Ferraro 👋 🇮🇹
 
-Frontend Developer passionate about **React, TypeScript, and frontend architecture**.  
-I love building **real features**, seeing users interact with my products, and learning by doing.  
+### Software Engineer | Frontend Specialist | MSc Computer Engineering @PoliTo
 
----
-
-## 🚀 Core Skills
-
-**Frontend:**
-- React, Angular (practical experience)
-- Modern TypeScript / JavaScript (ES6+)
-- HTML5, CSS3, Responsive Design
-- State Management: Redux, Context API
-- Testing: Jest, React Testing Library
-- Web Performance & Optimization
-- Design Systems & Component Architecture
-- UX/UI for Developers
-
-**Backend (supporting frontend-heavy projects):**
-- Node.js + Express / Java Spring Boot
-- REST APIs / CRUD operations
-- PostgreSQL / MongoDB (NoSQL)
-- Basic Deployment & CI/CD
-
-**Tools & Workflow:**
-- Git / GitHub / Branching Workflow
-- VS Code, Chrome DevTools
-- Agile / Jira / Confluence
-
----
-<!--
-## 💡 Featured Projects
-
-- [Project Name 1](PROJECT_LINK_1) – Complex web app built with React + TypeScript, advanced state management, real API integration.  
-- [Project Name 2](PROJECT_LINK_2) – Interactive dashboard with reusable components, optimized performance, and unit tests.  
-- [Project Name 3](PROJECT_LINK_3) – UI library / open-source contribution in React ecosystem.
-
-> All my projects are designed to **learn by doing**, experiment with new technologies, and improve real user experiences.
-
----
--->
-
-## 📫 Get in Touch
- 
-- LinkedIn: [LINKEDIN_PROFILE](https://www.linkedin.com/in/eliaferraro/)  
+I am a **Software Engineer** with a rigorous approach to frontend development and a core expertise in the **React ecosystem**. I leverage engineering best practices to deliver maintainable, scalable, and efficient code.
 
 ---
 
-## ⚡ Motivational Quote
+### 🎓 Academic Excellence
+* **Master of Science in Computer Engineering** @ *Politecnico di Torino*
+* **Grade:** 110/110 cum laude (Honors) 🏆
+* **Focus:** Software Architecture, Web Technologies, and Distributed Systems.
 
-*"Building features, learning every day, and continuously improving: this is my goal as a frontend developer."*
+### 💻 Technical Stack & Tools
+* **Frontend:** React, Next.js, Angular, TypeScript, RxJS, Redux/Zustand.
+* **Styles & UI:** CSS3/SASS, Tailwind CSS, Figma (Design-to-Code).
+* **Backend & Systems:** .NET Core, Java, Node.js, RESTful APIs, SQL.
+* **Methodologies:** SOLID, Clean Code, Design Patterns, Agile/Scrum.
+
+### 🛠️ Current Focus
+- 🚀 Deepening my expertise in **Next.js Server Components** and Performance Optimization.
+- 🏗️ Architecting enterprise-level frontend modules with a focus on modularity.
+- 🧪 Evangelizing **Type Safety** and rigorous testing in frontend workflows.
+
+---
+
+### 📊 GitHub Stats
+![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [linkedin.com/in/eliaferraro](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+- **Email:** [ferraro.elia.99@gmail.com](mailto:ferraro.elia.99@gmail.com)
+- **Portfolio/Site:** [Coming Soon/YourLink]
+
+*"Software engineering is not just about writing code; it's about building systems that last."*
