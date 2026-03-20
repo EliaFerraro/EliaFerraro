@@ -26,6 +26,11 @@ I am a **Software Engineer** with a rigorous approach to frontend development an
 
 ### 📊 GitHub Stats
 ![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaFerraro&show_icons=true&theme=tokyonight)
+
+
+![EliaFerraro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EliaFerraro&theme=vue-dark&hide_border=true)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaFerraro&layout=compact&theme=tokyonight)
 
 ---
@@ -33,6 +38,6 @@ I am a **Software Engineer** with a rigorous approach to frontend development an
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/eliaferraro](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 - **Email:** [ferraro.elia.99@gmail.com](mailto:ferraro.elia.99@gmail.com)
-- **Portfolio/Site:** [Coming Soon/YourLink]
+
 
 *"Software engineering is not just about writing code; it's about building systems that last."*
