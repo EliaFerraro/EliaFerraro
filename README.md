@@ -25,8 +25,8 @@ I am a **Software Engineer** with a rigorous approach to frontend development an
 ---
 
 ### 📊 GitHub Stats
-![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaFerraro&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaFerraro&layout=compact&theme=tokyonight)
 
 ---
 
