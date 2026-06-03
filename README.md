@@ -15,7 +15,7 @@ I am a **Software Engineer** with a rigorous approach to frontend development an
 * **Frontend:** React, Next.js, TypeScript, Angular.
 * **Styles & UI:** CSS3/SASS, Tailwind CSS, Figma (Design-to-Code).
 * **Backend & Systems:** .NET Core, Java, Node.js, RESTful APIs, SQL.
-* **Methodologies:** User-centered approach, SOLID, Clean Code, Design Patterns, Agile/Scrum.
+* **Methodologies:** User-centered approach, Clean Code, Design Patterns, Agile/Scrum.
 
 ### 🛠️ Current Focus
 - 🚀 Deepening my expertise in **Next.js Server Components** and Performance Optimization.
