@@ -36,7 +36,7 @@ I am a **Software Engineer** with a rigorous approach to frontend development an
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/eliaferraro](https://www.linkedin.com/in/eliaferraro/)
+- **LinkedIn:** [Elia Ferraro](https://www.linkedin.com/in/eliaferraro/)
 - **Email:** [ferraro.eli.99@gmail.com](mailto:ferraro.eli.99@gmail.com)
 
 
