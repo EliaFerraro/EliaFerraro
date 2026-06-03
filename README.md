@@ -36,8 +36,8 @@ I am a **Software Engineer** with a rigorous approach to frontend development an
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/eliaferraro](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- **Email:** [ferraro.elia.99@gmail.com](mailto:ferraro.elia.99@gmail.com)
+- **LinkedIn:** [linkedin.com/in/eliaferraro](https://www.linkedin.com/in/eliaferraro/)
+- **Email:** [ferraro.eli.99@gmail.com](mailto:ferraro.eli.99@gmail.com)
 
 
 *"Software engineering is not just about writing code; it's about building systems that last."*
